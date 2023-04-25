@@ -1,2 +1,2 @@
-# cnn
+# CNN
 MRI epilepsy classification
