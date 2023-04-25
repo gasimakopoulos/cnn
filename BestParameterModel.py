@@ -46,8 +46,6 @@ def myfun(main_path,ids):
   for ind,i in enumerate(ids):   
     if(i.split("--")[0] == "control"):
       brains_loc1 = [0,1,0]
-    elif(i.split("--")[0] == "contol"):
-      brains_loc1 = [0,1,0]
     elif(i.split("--")[0] == "left"):
       brains_loc1 = [1,0,0]
     elif(i.split("--")[0] == "right"):
